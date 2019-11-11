@@ -1,0 +1,116 @@
+    1  vagrant init centos/7
+    2  vagrant init centos/7
+    3  vagrant up
+    4  vagrant ssh
+    5  vagrant ssh
+    6  cd Desktop/
+    7  git clone https://airbus-caddmu@dev.azure.com/airbus-caddmu/DMU%20Integration%20and%20Services/_git/DevOps-Labo
+    8  cd DevOps-Labo/
+    9  git status
+   10  git add .
+   11  git status
+   12  git commit -m "initial commits"
+   13  git push
+   14  cd ..
+   15  ll
+   16  ll
+   17  git clone https://airbus-caddmu@dev.azure.com/airbus-caddmu/DMU%20Integration%20and%20Services/_git/DevOps-Labo
+   18  git clone https://airbus-caddmu@dev.azure.com/airbus-caddmu/DMU%20Integration%20and%20Services/_git/DevOps-Labo
+   19  git checkout PYPI-Test
+   20  git add .
+   21  git commit -m "initial commit"
+   22  git push origin PYPI-Test
+   23  git clone
+   24  git clone https://airbus-caddmu@dev.azure.com/airbus-caddmu/DMU%20Integration%20and%20Services/_git/DevOps-Labo
+   25  git clone https://airbus-caddmu@dev.azure.com/airbus-caddmu/DMU%20Integration%20and%20Services/_git/DevOps-Labo
+   26  git clone https://kxdocuments.accenture.com/contribution/8bcb22b1-41dd-4895-8e3d-5b6b170f9d3d
+   27  https://kxdocuments.accenture.com/
+   28  https://software2016.accenture.com/
+   29  https://portal.accenture.com/#/notifications
+   30  https://myte.accenture.com/OGTE/secure/LocationByDayTab.aspx
+   31  https://smartpay.allsectech.com/Accenturelogin/
+   32  git clone [global]
+   33  git clone https://airbus-caddmu@dev.azure.com/airbus-caddmu/DMU%20Integration%20and%20Services/_git/DevOps-Labo
+   34  cd DevOps-Labo/
+   35  git checkout python-test2
+   36  cls
+   37  exit
+   38  node --version
+   39  npm --version
+   40  npm install -g bower
+   41  npm install -g bower-art-resolver
+   42  bower install jquery
+   43  bower install desandro/masonry
+   44  bower install jquery
+   45  cd %userprofile%\
+   46  bower install jquery
+   47  bower install jquery
+   48  bower install jquery
+   49  ~/.bowerrc 
+   50  vim ~/.bowerrc 
+   51  ~/.bowerrc 
+   52  vi ~/.bowerrc 
+   53  bower install bootstrap
+   54  $ bower install bootstrap
+   55  C:\Users\avishek.b.roy\AppData\Roaming\npm\node_modules\bower\lib\node_modules\bower-config\lib\util\rc.js:71
+   56          throw error;
+   57          ^
+   58  Error: Unable to parse C:\Users\avishek.b.roy\.bowerrc: Unexpected token { in JSON at position 48
+   59      at parse (C:\Users\avishek.b.roy\AppData\Roaming\npm\node_modules\bower\lib\node_modules\bower-config\lib\util\rc.js:64:21)
+   60      at json (C:\Users\avishek.b.roy\AppData\Roaming\npm\node_modules\bower\lib\node_modules\bower-config\lib\util\rc.js:84:16)
+   61      at rc (C:\Users\avishek.b.roy\AppData\Roaming\npm\node_modules\bower\lib\node_modules\bower-config\lib\util\rc.js:32:26)
+   62      at Config.load (C:\Users\avishek.b.roy\AppData\Roaming\npm\node_modules\bower\lib\node_modules\bower-config\lib\Config.js:16:20)
+   63      at readCachedConfig (C:\Users\avishek.b.roy\AppData\Roaming\npm\node_modules\bower\lib\config.js:15:39)
+   64      at defaultConfig (C:\Users\avishek.b.roy\AppData\Roaming\npm\node_modules\bower\lib\config.js:11:12)
+   65      at Object.<anonymous> (C:\Users\avishek.b.roy\AppData\Roaming\npm\node_modules\bower\lib\index.js:16:32)
+   66      at Module._compile (internal/modules/cjs/loader.js:945:30)
+   67      at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+   68      at Module.load (internal/modules/cjs/loader.js:798:32) {
+   69    details: '{\n' +
+   70      '\t"resolvers" : [\n' +
+   71      '\t\t"bower-art-resolver"\n' +
+   72      '\t]\n' +
+   73      '}\n' +
+   74      '\n' +
+   75      '{\n' +
+   76      '    "registry": "https://ng7fc30:Airbus19@artifactory.fr.eu.airbus.corp/1Y40/api/bower/bower-remote",\n' +
+   77      '    "resolvers": [\n' +
+   78      '        "bower-art-resolver"\n' +
+   79      '    ]\n' +
+   80      '}\n',
+   81    code: 'EMALFORMED'
+   82  }
+   83  $ bower install bootstrap
+   84  bower install bootstrap
+   85  bower install jquery
+   86  bower install jquery
+   87  hist`
+   88  history 
+   89  clear
+   90  exit 
+   91  mkdir C:\dockeragent
+   92  cd C:\dockeragent
+   93  touch Dockerfile
+   94  touch start.ps1
+   95  ls
+   96  touch start.ps1 Dockerfile
+   97  cat start.ps1 
+   98  cat Dockerfile 
+   99  docker info
+  100  docker run -e AZP_URL=https://airbus-caddmu.visualstudio.com    -e AZP_TOKEN=xhzksloqyle5qzj526qjjpjej2ifpqw7tmtluocg2i56lg5djvna    -e AZP_AGENT_NAME=CI-WINDOWS    -e AZP_POOL=DOCKER-AGENTS    dockeragent:latest
+  101  docker pull hello-world
+  102  docker images
+  103  docker run hello-world
+  104  docker ps
+  105  docker ps -a
+  106  history
+  107  ls
+  108  cat Dockerfile 
+  109  exit
+  110  git clone https://github.com/avishekproy/nuget-server.git
+  111  pwd
+  112  git checkout 2.x
+  113  cd nuget-server/
+  114  git checkout 2.x
+  115  ll
+  116  history > history.txt
